@@ -7,7 +7,7 @@ It uses OpenCV library for hands tracking, transforms hands' movement to midi si
 <br>
 <br>
 
-Current version User decides on the number of notes he want to add to the screen layout, 
+In the current version User decides on the number of notes he want to add to the screen layout, 
 chooses the notes and preferred octaves from the table using a mouse.
 Right side of the screen is divided for chosen number of parts and each part has the assigned note displayed on it.
 By moving his index finger on the left side of the screen user sends Control Change data to the midi_out port
@@ -21,6 +21,7 @@ like create your own layout of notes, or choose an octave, or choose a scale…<
 <li>functions for sending cc signal: just signal from hand movement or modulation signal from set (sin, saw, square…) with amplitude controlled by hand</li>
 <li>ability to choose a function for each hand from list of functions</li>
 <li>working with separate midi_outs</li>
+<li>tempo control</li>
 <li>getting data through Ableton API</li>
 <li>theremin setting?</li>
 
