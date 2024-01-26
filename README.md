@@ -14,6 +14,10 @@ By moving his index finger on the left side of the screen user sends Control Cha
 (For example, it can be used for controlling sound effects, or volume level in Ableton).
 Movement of the index finger on the right side of the screen sends selected notes to the midi_out port.
 
+<h1>Old version demo (turn the sound on... obviously)</h1>
+
+https://github.com/GeorgiyBereza/Sleight_of_Hand/assets/117094961/1b539ebd-c037-4376-8927-ca203edbb608
+
 Ideas for further development:
 <li>real GUI</li>
 <li>functions for sending notes with preload presets:
@@ -24,4 +28,3 @@ like create your own layout of notes, or choose an octave, or choose a scale…<
 <li>tempo control</li>
 <li>getting data through Ableton API</li>
 <li>theremin setting?</li>
-
