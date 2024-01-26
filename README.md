@@ -3,7 +3,7 @@
 <h3>  work in progress...</h3>
 This app allows you to play music by moving your hands in front of a web camera.
 <br>
-It uses OpenCV library for hands tracking, transforms hands' movement to midi signals and sends them to Ableton Live.
+It uses OpenCV library for hands tracking, transforms hands movement to midi signals (rtmidi2 library) and sends them to Ableton Live.
 <br>
 <br>
 
