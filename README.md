@@ -13,6 +13,13 @@ Right side of the screen is divided for chosen number of parts and each part has
 By moving his index finger on the left side of the screen user sends Control Change data to the midi_out port
 (For example, it can be used for controlling sound effects, or volume level in Ableton).
 Movement of the index finger on the right side of the screen sends selected notes to the midi_out port.
+<h1>Silly demo with note layout</h1>
+
+
+https://github.com/GeorgiyBereza/Sleight_of_Hand/assets/117094961/1a9e4cf1-579f-49b0-8294-48cfa0553642
+
+
+
 
 <h1>Old version demo (turn the sound on... obviously)</h1>
 
